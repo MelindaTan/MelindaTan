@@ -1,4 +1,6 @@
-<marquee behavior="alternate" scrollamount="10">Hey! I'm Melinda, a software developer.</marquee>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=F7DC6F&center=true&vCenter=true&width=600&lines=Hey!+I'm+Melinda;A+Software+Developer+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
 
 ## 👋 About Me
 
