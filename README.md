@@ -51,7 +51,21 @@ Here are some of my favorite projects:
 
 
 ---
+## 🏆 GitHub Trophies
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MelindaTan&theme=onestar&no-frame=true&row=2&column=3" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MelindaTan&show_icons=true&theme=radical" />
+</p>
+
+---
 
 <!--
 - [Portfolio Website](https://YOUR-PORTFOLIO-URL.com) *(if you have one!)*
