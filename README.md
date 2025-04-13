@@ -18,7 +18,10 @@ Here are some of my favorite projects:
 
 - [**Burger Bash Game**](https://github.com/MelindaTan/BurgerBashGame)  
   *A fast-paced Java game project built for EC327 at Boston University.*
-  
+
+- [**Portfolio Website**](https://github.com/MelindaTan/PortfolioWebsite)  
+  *Personal website to display experience and passion*
+
 - [**Plant Shop Website**](https://melindatan.github.io/Plant-Shop/)  
   *An e-commerce website built with React, featuring product listings and cart functionality.*
 
