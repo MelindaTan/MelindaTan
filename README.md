@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Hey!+I'm+Melinda;Computer+Engineer+and+Software+Developer+%F0%9F%9A%80;Machine+Learning+%7C+AI+%7C+Cloud+Computing+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hey!+I'm+Melinda;A+Software+Developer+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 ---
@@ -19,8 +19,8 @@ Here are some of my favorite projects:
 - [**Burger Bash Game**](https://github.com/MelindaTan/BurgerBashGame)  
   *A fast-paced Java game project built for EC327 at Boston University.*
   
-- [**Plant Shopping Website**](melindatan.github.io/Plant-Shop/)  
-  *A fast-paced Java game project built for EC327 at Boston University.*
+- [**Plant Shop Website**](https://melindatan.github.io/Plant-Shop/)  
+  *An e-commerce website built with React, featuring product listings and cart functionality.*
 
 ---
 
