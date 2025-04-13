@@ -1,4 +1,4 @@
-#<marquee>Hey! I'm Melinda, a software developer.</marquee>
+<marquee behavior="alternate" scrollamount="10">Hey! I'm Melinda, a software developer.</marquee>
 
 ## 👋 About Me
 
