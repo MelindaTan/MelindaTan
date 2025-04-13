@@ -51,6 +51,8 @@ Here are some of my favorite projects:
 
 
 ---
+
+<!--
 ## 🏆 GitHub Trophies
 
 <p align="center">
@@ -66,9 +68,6 @@ Here are some of my favorite projects:
 </p>
 
 ---
-
-<!--
-- [Portfolio Website](https://YOUR-PORTFOLIO-URL.com) *(if you have one!)*
 
 
 **MelindaTan/MelindaTan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
