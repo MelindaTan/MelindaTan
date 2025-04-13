@@ -1,4 +1,4 @@
-# Hey! I'm Melinda, a software developer
+<marquee>Hey! I'm Melinda, a software developer.</marquee>
 
 ## 👋 About Me
 
