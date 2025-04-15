@@ -6,9 +6,7 @@
 
 ## 👋 About Me
 
-I am a **Computer Engineering** student with a minor in **Computer Science** and a concentration in **Machine Learning** at **Boston University**.  
-My passion lies in **artificial intelligence, machine learning, backend development, and cloud computing**.  
-I love solving complex problems, building intuitive applications, and analyzing data to derive insights.
+I am a **Computer Engineering** student with a minor in **Computer Science** and a concentration in **Machine Learning** at **Boston University**. My passion lies in **artificial intelligence, machine learning, backend development, and cloud computing**. I love solving complex problems, building intuitive applications, and analyzing data to derive insights.
 
 ---
 
@@ -51,7 +49,7 @@ Here are some of my favorite projects:
 ## 📫 Let's Connect!
 
 - [LinkedIn](https://www.linkedin.com/in/melintran)  
-
+- [Portfolio](https://melindatan.github.io/PortfolioWebsite/) 
 
 ---
 
