@@ -6,7 +6,7 @@
 
 ## 👋 About Me
 
-I am a **Computer Engineering** student with a minor in **Computer Science** and a concentration in **Machine Learning** at **Boston University**. My passion lies in **artificial intelligence, machine learning, backend development, and cloud computing**. I love solving complex problems, building intuitive applications, and analyzing data to derive insights.
+I am a **Computer Engineering** student with a minor in **Computer Science** and a concentration in **Machine Learning** at **Boston University**. My passion lies in **artificial intelligence, machine learning, computer vision, and backend development**. I love solving complex problems, building intuitive applications, and analyzing data to derive insights.
 
 ---
 
@@ -41,7 +41,7 @@ Here are some of my favorite projects:
 
 ### 🎯 Specializations
 
-`Machine Learning` | `Backend Systems` | `Computer Vision` | `Augmented Reality`
+`Machine Learning` | `Backend Systems` | `Computer Vision`
 
 
 ---
