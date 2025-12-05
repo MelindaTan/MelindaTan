@@ -3,7 +3,8 @@
 </p>
 
 ---
-
+<a href="https://melindatan.github.io/PortfolioWebsite/" style="background-color: #007bff; color: white; padding: 10px 15px; text-decoration: none; border-radius: 5px; display: inline-block;">Portfolio</a>
+---
 ## 👋 About Me
 
 I am a **Computer Engineering** student with a minor in **Computer Science** and a concentration in **Machine Learning** at **Boston University**. My passion lies in **artificial intelligence, machine learning, computer vision, and backend development**. I love solving complex problems, building intuitive applications, and analyzing data to derive insights.
