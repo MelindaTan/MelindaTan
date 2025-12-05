@@ -50,8 +50,6 @@ Here are some of my favorite projects:
 ## 📫 Let's Connect!
 
 - [LinkedIn](https://www.linkedin.com/in/melintran)  
-- [Portfolio](https://melindatan.github.io/PortfolioWebsite/) 
-
 ---
 
 <!--
