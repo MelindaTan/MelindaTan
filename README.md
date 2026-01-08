@@ -15,7 +15,7 @@ I am a **Computer Engineering** student with a minor in **Computer Science** and
 
 Here are some of my favorite projects:
 
-- [**Plant Shop Website**](https://melindatan.github.io/Plant-Shop/)  
+- [**BU Robotics Lab Notebook**](https://melindatan.github.io/BURobotics-notebook)  
   *BU Robotics Lab Notebook to detail work done in the lab.*
   
 - [**Burger Bash Game**](https://github.com/MelindaTan/BurgerBashGame)  
